@@ -13,6 +13,10 @@
   
 </p>
 
+[github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=toutatsu&theme=dark)
+
 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toutatsu)](https://github.com/anuraghazra/github-readme-stats)
