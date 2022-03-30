@@ -34,10 +34,6 @@
 
 [awesome-github-profile](https://zzetao.github.io/awesome-github-profile/)
 
-[AtCoder](https://atcoder.jp/users/toutatsu)
-
-[kaggle](https://www.kaggle.com/toutatsu)
-
 <!--
 **toutatsu/toutatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
